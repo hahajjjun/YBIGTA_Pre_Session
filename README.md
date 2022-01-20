@@ -5,3 +5,4 @@ Day 2 : [Linux](https://github.com/hahajjjun/YBIGTA_Pre_Session/tree/master/Day2
 Day 3 : [Git](https://github.com/hahajjjun/YBIGTA_Pre_Session/tree/master/Day3_Git) <br/>
 Day 4 : [Numpy and Pandas](https://github.com/hahajjjun/YBIGTA_Pre_Session/tree/master/Day4_Numpy%20and%20Pandas) <br/>
 Day 5 : [EDA and Visualization](https://github.com/hahajjjun/YBIGTA_Pre_Session/tree/master/Day5_EDA%20and%20Visualization) <br/>
+Day 6 : [FE](https://github.com/hahajjjun/YBIGTA_Pre_Session/tree/master/Day6_Feature%20Engineering) <br/>
