@@ -12,3 +12,5 @@ Resources for YBIGTA Pre-Session <br/>
 |Day 8|[ML](https://github.com/hahajjjun/YBIGTA_Pre_Session/tree/master/Day8_ML)
 |Day 9|[MLP](https://github.com/hahajjjun/YBIGTA_Pre_Session/tree/master/Day9_MLP)
 |Day 10|[CNN](https://github.com/hahajjjun/YBIGTA_Pre_Session/tree/master/Day10_CNN)
+|Day 11|[RNN](https://github.com/hahajjjun/YBIGTA_Pre_Session/tree/master/Day11_RNN)
+|Day 12|[Crawling](https://github.com/hahajjjun/YBIGTA_Pre_Session/tree/master/Day12_Crawling)
